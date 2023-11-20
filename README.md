@@ -3,12 +3,11 @@
 
 # download only root user
 
-
+pkg install pip
 
 # installing Tool ComMand
 
-
-###pkg install git
+pkg install git
 
 pkg install python3
 
@@ -20,3 +19,6 @@ git clone https://github.com/HeartHaNterAlex/wifi
 
 
 sudo python wifi/PS.py -i wlan0 -K
+
+# select BSS ID press inter attack
+
