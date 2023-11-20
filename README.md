@@ -1,4 +1,4 @@
-# Wi-Fi PassWord only WPA2 HACK
+# Wi-Fi WPA2 PassWord HACK ONLY ROUTER
 
 pkg install -y root-repo
 
