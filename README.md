@@ -6,7 +6,11 @@ pkg install -y git tsu python wpa-supplicant pixiewps iw openssl
 
 # download only root user
 
-pkg install pip
+apt-get install build-essential
+apt-get install libpcap-dev
+apt-get install sqlite3
+apt-get install libsqlite3-dev
+apt-get install pixiewps
 
 # installing Tool ComMand
 
