@@ -1,1 +1,0 @@
-sudo python3 wifi/wlan1/ps.py -i wlan1 -K -F
