@@ -21,7 +21,9 @@ git clone https://github.com/HeartHaNterAlex/wifi
 # only one command run
 
 
-sudo python wifi/ps.py -i wlan0 -K
+sudo python wifi/ps.py -i wlan1 -K
+# kali command 
+sudo python wifi/kali-ps.py -i wlan1 -K
 
 # select Host number press inter attack 
 
