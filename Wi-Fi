@@ -1,1 +1,0 @@
-sudo python wifi.ps.py -i wlan0 -K
