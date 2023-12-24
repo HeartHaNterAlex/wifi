@@ -40,3 +40,5 @@ sudo python wifi/kali-ps.py -i wlan1 -K
 sudo python3 wifi/ps.py -i wlan0 -b d9:90:4C:C9:D0:A7 -B -p 1234
 # 80% Wi-Fi hack
 sudo python3 wifi/ps.py -i wlan0 --pbc
+# help command
+sudo python wifi/ps.py -i wlan1 -K -h
