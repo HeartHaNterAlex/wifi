@@ -17,6 +17,7 @@ apt-get install libsqlite3-dev
 apt-get install pixiewps
 
 # installing Tool ComMand
+![Screenshot_2024-01-12-16-12-14-241_com termux](https://github.com/HeartHaNterAlex/wifi/assets/139457526/16b0b31a-3385-4fb7-ac7b-5046118c0b08)
 
 pkg install git
 
@@ -31,6 +32,8 @@ git clone https://github.com/HeartHaNterAlex/wifi
 
 sudo python wifi/ps.py -i wlan1 -K
 # kali command 
+![Screenshot_2024-01-12-16-14-06-822_com termux](https://github.com/HeartHaNterAlex/wifi/assets/139457526/c6af3833-4b1f-4e86-b7e0-191f0ccac1b1)
+
 sudo python wifi/kali-ps.py -i wlan1 -K
 
 # select Host number press inter attack 
